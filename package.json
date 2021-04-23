@@ -1,0 +1,31 @@
+{
+  "name": "trinika-teknologi-mandiri-interview-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfebri32/trinika-teknologi-mandiri-interview-backend.git"
+  },
+  "author": "Febriansyah Putra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pfebri32/trinika-teknologi-mandiri-interview-backend/issues"
+  },
+  "homepage": "https://github.com/pfebri32/trinika-teknologi-mandiri-interview-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "concurrently": "^6.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.2.0"
+  }
+}
