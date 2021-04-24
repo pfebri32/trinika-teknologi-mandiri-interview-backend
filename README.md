@@ -9,7 +9,7 @@ This backend has been created with Express.js and Multer for upload file. Databa
 First you need to create new file named '.env' and write some configuration. Example :
 
     PORT=5000
-    UPLOADS_URL=localhost:5000/uploads/
+    UPLOADS_URL=http://localhost:5000/uploads/
 
 You can change with any configuration that you like but dont forget to change something inside too.
 
